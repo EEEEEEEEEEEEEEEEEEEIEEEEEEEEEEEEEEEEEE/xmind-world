@@ -1,7 +1,7 @@
 # xmind-world
 通过xmind分析世界(App、软件、其他)，更直观的了解一款App、软件的功能结构
 
- 1. App之打车软件分析
+ 1.App之打车软件分析
  
  ![这里写图片描述](http://b376.photo.store.qq.com/psb?/V109pnJL0PVMar/45hLEJfEhwlme0q0cebz425HYPAOjLCEGc.ZbLbJGEo!/b/dO.eHuBbKQAA&bo=SgJ3AQAAAAADBxw!&rf=viewer_4)
  
